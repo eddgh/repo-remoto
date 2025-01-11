@@ -1,1 +1,5 @@
 a Dio é demais!
+Mais uma linha no arquivo teste2.txt
+Outra linha no arquivo
+
+Pulei uma linha!
